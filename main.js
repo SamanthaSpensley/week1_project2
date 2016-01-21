@@ -11,6 +11,10 @@
 //console.log("Question 1");
 //console.log(yourAnswer);
 
+var iceCream = [];
+iceCream.push('chocolate', 'vanilla', 'salted orea', 'hazelnut');
+console.log(iceCream);
+
 
 // 2. Add an additional item to the beginning of your Array.
 
